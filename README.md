@@ -8,16 +8,20 @@
 &nbsp;
 \=========================================
 
-<h3> 🔎 &nbsp;Sobre mim </h3>
+<h3> 🔎 &nbsp;About me </h3>
 
 - 💡 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
 - 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest e Bug Bounty**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Linguagens e Dados**
+**Certifications**
+
+| -- 🚧 EM CONSTRUÇÃO 🚧 -- |
+
+**Programming Languages**
 
   ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,13 +53,6 @@
   ![image](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)
   ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 -->  
-
-**Utilidades**
-
-  ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![image](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-  ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   
 **DevOps**
 <!--
@@ -73,7 +70,7 @@
   
   
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -81,7 +78,7 @@
 
   
 <!--
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xEternalw0lf&show_icons=true)
 -->
 
@@ -90,7 +87,7 @@
 <script src=" https://tryhackme.com/badge/499114 "></script>
 
  
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 <p align="left">
 </p>
