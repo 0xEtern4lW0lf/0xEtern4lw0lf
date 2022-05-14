@@ -1,7 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=0xEtern4lw0lf&color=006bed)
 
-=========================================\n
+==========================================
+&nbsp;
+
 🚧 Projeto README - 🚀 Em Construção 🚧
+
+&nbsp;
 \=========================================
 
 <h3> 🔎 &nbsp;Sobre mim </h3>
