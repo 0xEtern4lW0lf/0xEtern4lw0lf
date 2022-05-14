@@ -1,13 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=0xEtern4lw0lf&color=006bed)
 
-==========================================
-&nbsp;
-
-🚧 Projeto README - 🚀 Em Construção 🚧
-
-&nbsp;
-\=========================================
-
 <h3> 🔎 &nbsp;About me </h3>
 
 - 💡 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -101,3 +93,12 @@
 -->
   
 ![](https://hit.yhype.me/github/profile?user_id=26508407)
+
+
+==========================================
+&nbsp;
+
+🚧 Projeto README - 🚀 Em Construção 🚧
+
+&nbsp;
+\=========================================
