@@ -18,8 +18,6 @@ Desec Security     - **DCPT**  | 22/06/2022
 
 Offensive Security - **OSEP**  | 01/11/2022
 
-| -- 🚧 EM CONSTRUÇÃO 🚧 -- |
-
 
 ---
 
