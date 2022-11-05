@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=0xEtern4lw0lf&color=006bed)
 
-<h3> 🔎 &nbsp;About me </h3>
+<h3> 🔎 &nbsp;ABOUT ME </h3>
 
 - 💡 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
@@ -22,7 +22,7 @@ Offensive Security - **OSEP**  | 01/11/2022
 ---
 
 
-<h3> :rocket: &nbsp;My Skills </h3>
+<h3> :rocket: &nbsp;SKILLs </h3>
 
 
 **Programming Languages**
@@ -95,7 +95,7 @@ Offensive Security - **OSEP**  | 01/11/2022
  ---
  
  
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
+<h3> :earth_americas: &nbsp;CONTACT </h3> 
 
 <p align="left">
 </p>
