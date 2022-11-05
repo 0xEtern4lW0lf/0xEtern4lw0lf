@@ -11,9 +11,9 @@
 
 **Certifications**
 
-Desec Security     - DCPT  | 22/06/2022
+Desec Security     - **DCPT**  | 22/06/2022
 
-Offensive Security - OSEP  | 01/11/2022
+Offensive Security - **OSEP**  | 01/11/2022
 
 | -- 🚧 EM CONSTRUÇÃO 🚧 -- |
 
@@ -78,9 +78,11 @@ Offensive Security - OSEP  | 01/11/2022
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xEternalw0lf&show_icons=true)
 -->
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/smithbenison.png" alt="TryHackMe">
 
-<script src=" https://tryhackme.com/badge/499114 "></script>
+**CTFs**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/smithbenison.png" alt="TryHackMe">
+
 
  
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
