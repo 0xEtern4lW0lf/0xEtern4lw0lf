@@ -7,7 +7,10 @@
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
 - 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest e Bug Bounty**.
 
-<h3> :rocket: &nbsp;My Skills </h3>
+
+---
+
+
 
 **Certifications**
 
@@ -16,6 +19,13 @@ Desec Security     - **DCPT**  | 22/06/2022
 Offensive Security - **OSEP**  | 01/11/2022
 
 | -- 🚧 EM CONSTRUÇÃO 🚧 -- |
+
+
+---
+
+
+<h3> :rocket: &nbsp;My Skills </h3>
+
 
 **Programming Languages**
 
@@ -84,6 +94,8 @@ Offensive Security - **OSEP**  | 01/11/2022
 <img src="https://tryhackme-badges.s3.amazonaws.com/smithbenison.png" alt="TryHackMe">
 
 
+ ---
+ 
  
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
