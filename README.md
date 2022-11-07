@@ -2,10 +2,12 @@
 
 <h3> 🔎 &nbsp;ABOUT ME </h3>
 
-- 💡 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💡 &nbsp; Tenho 1 ano de experiência em **Pentest Red Team, OSInt**.
+
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
-<!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
-- 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest e Bug Bounty**.
+- 💼 &nbsp; Trabalhando como **Cyber Security Analyst**. <!-- <a href="LINK DA EMPRESA">EMPRESA</a> -->
+
+- 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest Red Team e Bug Bounty**.
 
 
 ---
