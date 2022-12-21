@@ -1,20 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=0xEtern4lw0lf&color=006bed)
 
-<h3> 🔎 &nbsp;ABOUT ME </h3>
+# 🔎 &nbsp;ABOUT ME 
 
-- 💡 &nbsp; Tenho 1 ano de experiência em **Pentest Red Team, OSInt**.
+- 💡 &nbsp; Tenho 2 ano de experiência em **Pentest Red Team, OSInt**.
 
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
 - 💼 &nbsp; Trabalhando como **Cyber Security Analyst**. <!-- <a href="LINK DA EMPRESA">EMPRESA</a> -->
 
 - 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest Red Team e Bug Bounty**.
 
+> **Blog Pessoal:** https://0xetern4lw0lf.github.io/
 
 ---
 
 
 
-**Certifications**
+# **Certifications**
 
 Desec Security     - **DCPT**  | 22/06/2022
 
@@ -24,10 +25,10 @@ Offensive Security - **OSEP**  | 01/12/2022
 ---
 
 
-<h3> :rocket: &nbsp;SKILLs </h3>
+# :rocket: &nbsp;SKILLs 
 
 
-**Programming Languages**
+## **Programming Languages**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -58,7 +59,7 @@ Offensive Security - **OSEP**  | 01/12/2022
   ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 -->  
   
-**DevOps**
+## **DevOps**
 
   ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -76,7 +77,7 @@ Offensive Security - **OSEP**  | 01/12/2022
   -->
   
 
-**Development Tools**
+## **Development Tools**
 
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -89,7 +90,7 @@ Offensive Security - **OSEP**  | 01/12/2022
 -->
 
 
-**CTFs**
+## **CTFs**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/smithbenison.png" alt="TryHackMe">
 
@@ -97,14 +98,14 @@ Offensive Security - **OSEP**  | 01/12/2022
  ---
  
  
-<h3> :earth_americas: &nbsp;CONTACT </h3> 
+# :earth_americas: CONTACT
 
 <p align="left">
 </p>
 
 [![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:ramonmarsal.tech@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/ramonmarsaltech)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)]([https://www.linkedin.com/ramonmarsaltech](https://www.linkedin.com/in/ramonmarsaltech/))
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
