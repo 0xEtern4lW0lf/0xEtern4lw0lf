@@ -2,7 +2,7 @@
 
 # 🔎 &nbsp;ABOUT ME 
 
-- 💡 &nbsp; Tenho 2 ano de experiência em **Pentest Red Team, OSInt**.
+- 💡 &nbsp; Tenho 2 anos de experiência em **Pentest Red Team, OSInt**.
 
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
 - 💼 &nbsp; Trabalhando como **Cyber Security Analyst**. <!-- <a href="LINK DA EMPRESA">EMPRESA</a> -->
