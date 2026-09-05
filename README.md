@@ -1,125 +1,145 @@
-![](https://komarev.com/ghpvc/?username=0xEtern4lw0lf&color=006bed)
+<h1 align="center">Ramon Marsal</h1>
 
-# 🔎 &nbsp;ABOUT ME 
+<p align="center">
+  <strong>Segurança Ofensiva &nbsp;·&nbsp; Red Team &amp; Pentest &nbsp;·&nbsp; Infraestrutura &nbsp;·&nbsp; LLMSec</strong>
+  <br>
+  Brasília/DF — Brasil
+</p>
 
-- 💡 &nbsp; Tenho 2 anos de experiência em **Pentest Red Team, OSInt**.
-
-<!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
-- 💼 &nbsp; Trabalhando como **Cyber Security Analyst**. <!-- <a href="LINK DA EMPRESA">EMPRESA</a> -->
-
-- 📚 &nbsp; Aprendendo mais sobre **Segurança da Informação, com foco em Pentest Red Team e Bug Bounty**.
-
-> **Blog Pessoal:** https://0xetern4lw0lf.github.io/
-
----
-
-
-
-# **Certifications**
-
-Desec Security     - **DCPT**  | 22/06/2022
-
-Offensive Security - **OSEP**  | 01/12/2022
-
+<p align="center">
+  <a href="https://0xetern4lw0lf.com">Portfólio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ramonmarsal">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ramonmarsal1997@gmail.com">E-mail</a>
+</p>
 
 ---
 
+Atuo desde 2021 com operações de Red Team e testes de intrusão avançados em ambientes
+corporativos complexos: simulação realista de ameaças, comprometimento controlado de
+infraestrutura e avaliação de maturidade defensiva.
 
-# :rocket: &nbsp;SKILLs 
+Trabalho com invasão de ambientes Windows (Active Directory) e Linux, aplicando
+pós-exploração, movimentação lateral, evasão de defesas (AV/EDR) e persistência. A base
+em infraestrutura, virtualização e administração de sistemas permite atuação de ponta a
+ponta — do reconhecimento ao domínio do ambiente.
 
+Frente atual: **segurança aplicada a IA (LLMSec)** — análise de vulnerabilidades em LLMs,
+mitigação de Prompt Injection, orquestração de agentes autônomos e operação de modelos
+locais em hardware dedicado.
 
-## **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox VE">
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="Elastic Stack">
+</p>
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  
-<!--  
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=C%2B%2B&logoColor=9a4993)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=42a5f6)
--->
+---
 
-<!--
-**Frameworks**
+## Competências Técnicas
 
-  ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![image](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)
-  ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
--->  
-  
-## **DevOps**
+**Segurança Ofensiva**
+Active Directory · Reconhecimento e enumeração · Escalada de privilégios · Movimentação
+lateral · Pós-exploração · Evasão de defesas (AV/EDR) · Testes de intrusão · Análise de
+vulnerabilidades · OSINT e inteligência cibernética
 
-  ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+**Ferramentas Ofensivas**
+Nmap · Metasploit · Burp Suite · BloodHound · Cobalt Strike · Sliver
 
-  
-  <!--
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)  
-  ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-  ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-  ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-  -->
-  
+**Inteligência Artificial & LLMs**
+Engenharia de prompts · Orquestração de agentes autônomos · Integração de ferramentas via
+MCP (Model Context Protocol) · Execução de modelos locais (SLMs/LLMs) em hardware dedicado
 
-## **Development Tools**
+**Segurança em IA (LLMSec)**
+Análise de vulnerabilidades em LLMs · Mitigação de Prompt Injection (direta e indireta) ·
+Segurança defensiva com suporte de IA
 
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+**Infraestrutura & Redes**
+Administração de servidores Linux e Windows · Proxmox VE · Ceph · pfSense · Docker e
+ambientes virtualizados · VPNs · Monitoramento e gestão de logs (Zabbix, Elastic Stack)
 
-  
-<!--
-## ⭐ Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xEternalw0lf&show_icons=true)
--->
+**Automação & Programação**
+Python · Bash · Automação de workflows (n8n) · Integração de APIs · Java (conceitos
+básicos/estruturais)
 
+---
 
-## **CTFs**
+## Projetos em Destaque
+
+### Konhecia — RAG corporativo 100% on-premise
+
+**Problema.** Assistentes corporativos apoiados em LLMs comerciais exigem enviar documentos
+internos a APIs de terceiros, o que é inviável sob requisitos de confidencialidade. Somado a
+isso, sistemas de RAG tendem a responder mesmo quando a base não cobre a pergunta.
+
+**Solução.** API de perguntas e respostas sobre documentos internos com LLM e embeddings
+executados inteiramente no ambiente do cliente, via Ollama — nenhum dado sai da
+infraestrutura. Ingestão de PDFs com chunking e indexação vetorial no Qdrant, histórico de
+sessões em PostgreSQL, respostas em streaming (SSE) e autenticação por API key. O controle de
+alucinação é explícito: trechos abaixo do score mínimo de relevância são descartados e o
+agente recusa a resposta em vez de inventá-la. Persona parametrizável por domínio de suporte.
+
+**Stack.** Python · FastAPI · Pydantic v2 · LangChain · Qdrant · Ollama (`qwen2.5:7b`,
+`nomic-embed-text`) · PostgreSQL com SQLAlchemy async e Alembic · Docker Compose · pytest
+
+**Repositório.** https://github.com/0xEtern4lW0lf/konhecia
+
+### Em desenvolvimento
+
+- **[voxscale](https://github.com/0xEtern4lW0lf/voxscale)** — pipeline de análise de
+  sentimento em escala com aceleração por GPU: PyTorch/CUDA, DistilBERT multilíngue,
+  Polars/PyArrow e PostgreSQL, com geração de dataset sintético e benchmark CPU vs GPU.
+  *Estágio: estrutura base (configuração, persistência e telemetria); pipeline em construção.*
+
+- **[aemulus](https://github.com/0xEtern4lW0lf/aemulus)** — sistema multiagente autônomo
+  para inteligência competitiva, com LangGraph, modelo local via Ollama e coleta web
+  (DuckDuckGo + trafilatura). *Estágio: scaffold — Fase 1.*
+
+---
+
+## Atuação Atual
+
+- Segurança de IA (LLMSec): análise de vulnerabilidades em LLMs e mitigação de ataques de
+  Prompt Injection, diretos e indiretos.
+- Orquestração de agentes autônomos e integração de ferramentas via MCP
+  (Model Context Protocol).
+- Deploy e operação de modelos de linguagem locais (SLMs/LLMs) em hardware dedicado
+  (clusters GPU), aplicados a inferência e automação de tarefas.
+- Desenvolvimento de automações de workflow com n8n, Python e integração de APIs para
+  operações de segurança.
+- Criação e manutenção de laboratórios dedicados a simulações Red Team / Blue Team.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/smithbenison.png" alt="TryHackMe">
 
+---
 
- ---
- 
- 
-# :earth_americas: CONTACT
+## Certificações
 
-<p align="left">
-</p>
+| Certificação | Emissor | Ano |
+| --- | --- | :---: |
+| Solyd Certified Pentester (SYCP) | Solyd | 2023 |
+| Tratamento de Incidentes de Segurança | RNP / ESR | 2023 |
+| Offensive Security Experienced Penetration Tester (OSEP) | Offensive Security | 2022 |
+| Desec Certified Penetration Tester (DCPT) | Desec Security | 2022 |
 
-[![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:ramonmarsal.tech@gmail.com)
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)]([https://www.linkedin.com/ramonmarsaltech](https://www.linkedin.com/in/ramonmarsaltech/))
+## Formação
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
-[![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&lin=https://www.instagram.com/)](https://www.instagram.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/5341606)](https://www.sololearn.com/profile/5341606)
--->
-  
-![](https://hit.yhype.me/github/profile?user_id=26508407)
+- **Tecnólogo em Segurança da Informação** — Faculdade UniFatecie *(em conclusão)*
+- **Pós-Graduação em Ethical Hacking e Cybersecurity** — Faculdade VINCIT *(2023)*
+- **Curso de Guerra Cibernética** *(2021)*
+- **Tecnólogo em Gestão de Comunicações Militares** — Escola de Sargentos das Armas (ESA) *(2020)*
 
+**Idiomas:** Português (nativo) · Inglês (leitura técnica)
 
-==========================================
-&nbsp;
+---
 
-🚧 Projeto README - 🚀 Em Construção 🚧
+## Contato
 
-&nbsp;
-\=========================================
+- **E-mail:** [ramonmarsal1997@gmail.com](mailto:ramonmarsal1997@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ramonmarsal](https://www.linkedin.com/in/ramonmarsal)
+- **Portfólio:** [0xetern4lw0lf.com](https://0xetern4lw0lf.com)
